@@ -6,3 +6,15 @@
 .btnRight{
   float:right;
 }
+.question
+{
+	display: none;
+}
+
+$('#start').click(function()
+{
+
+	console.log("start");
+	$()
+	
+})
